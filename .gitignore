@@ -4,6 +4,7 @@
 ### Eclipse ###
 .metadata
 bin/
+Servers/
 tmp/
 *.tmp
 *.bak
@@ -13,7 +14,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-Servers/
+
 
 # External tool builders
 .externalToolBuilders/
